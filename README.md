@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: I am holding a first-class honour in Music Composition and Piano Performance
 
-- ⚡ Fun fact: I code music too :) [Check out: https://github.com/leonkwan46/CodingMusic]
+- ⚡ Fun fact: I code music too :) [https://github.com/leonkwan46/CodingMusic]
 
 <!--
 **leonkwan46/leonkwan46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
