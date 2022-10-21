@@ -4,6 +4,7 @@
       FinalProfect in local server [Frontend is building by https://github.com/khoph0312]
 
 - 🌱 I’m currently learning to build a simple Mobile Application by Flutter framework
+- 🌱 Built a Cat-themed Calculator by Flutter framework [https://github.com/leonkwan46/CatCulator]
 
 - ⚡ Fun fact: I am holding a first-class honour in Music Composition and Piano Performance
 
