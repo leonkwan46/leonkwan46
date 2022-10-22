@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building a simple math quiz website's Backend service for CS50 
-      FinalProfect in local server [Frontend is building by https://github.com/khoph0312]
+- 🔭 I’m currently learning to build a simple Mobile Application by Flutter framework
 
-- 🌱 I’m currently learning to build a simple Mobile Application by Flutter framework
-- 🌱 Built a Cat-themed Calculator by Flutter framework [https://github.com/leonkwan46/CatCulator]
+- 🌱 A Cat-themed Calculator by Flutter framework [https://github.com/leonkwan46/CatCulator]
+
+- 🌱 A simple math quiz website's Backend service for CS50 FinalProject with React & Flask
+     [Frontend built by https://github.com/khoph0312]
 
 - ⚡ Fun fact: I am holding a first-class honour in Music Composition and Piano Performance
 
