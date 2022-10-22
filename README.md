@@ -12,6 +12,8 @@
 
 🥴Random things🥴
 
+- ⚡ Fun fact: I am MSc Computer Science (Conversion) student now, heh.
+
 - ⚡ Fun fact: I am holding a first-class honour in Music Composition and Piano Performance
 
 - ⚡ Fun fact: I code music too :) [https://github.com/leonkwan46/CodingMusic]
