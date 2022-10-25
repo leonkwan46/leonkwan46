@@ -8,7 +8,7 @@
 - 🌱 A Cat-themed Calculator by Flutter framework [https://github.com/leonkwan46/CatCulator]
 
 - 🌱 A simple math quiz website's Backend service for CS50 FinalProject by React & Flask [https://github.com/leonkwan46/cs50fp]   
-// Frontend built by https://github.com/khoph0312 // [https://github.com/khoph0312/react-final-project/?fbclid=IwAR39KogG4Ezm0rDzyiflwREIfeOJZoFvU5xhyw1apFCfTPyH2IVZRJw7v9o]
+// Frontend built by https://github.com/khoph0312 // [https://github.com/khoph0312/react-final-project]
 
 🥴Random things🥴
 
