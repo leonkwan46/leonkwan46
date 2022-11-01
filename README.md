@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ✍🏻Current Project✍🏻
-- 🔭 I’m currently learning to build a simple Mobile Application by Flutter framework
+- 🔭 I’m currently learning React and Node.js, intending to build a cat-themed wishing website and a database saving users' wishes
 
 📝Finished Project📝
 
