@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ✍🏻Current Project✍🏻
-- 🔭 I’m currently learning React and Node.js, intending to build a cat-themed wishing website and a database saving users' wishes
+- 🔭 I’m currently learning React and Node.js, intending to build a website for teachers able to assign HomeWork to students, then students able to upload HomeWork and send back to teachers.
 
 📝Finished Project📝
 
