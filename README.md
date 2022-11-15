@@ -2,7 +2,7 @@
 
 ✍🏻Current Project✍🏻
 - 🔭 I’m currently learning React and Node.js, intending to build a website for teachers able to assign HomeWork to students, then students able to upload HomeWork and send back to teachers.
-- UI Designing: https://www.figma.com/file/FAp9NO1jl09PrkLYl116tB/Teacher-Student-HW-Website?node-id=0%3A1&t=TVlSgfcwAeNcH5qo-0
+- UI Designing: [https://www.figma.com/file/FAp9NO1jl09PrkLYl116tB/Teacher-Student-HW-Website?node-id=0%3A1&t=TVlSgfcwAeNcH5qo-0]
 
 📝Finished Project📝
 
