@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact: I am holding a first-class honour in Music Composition and Piano Performance
 
+- ⚡ Fun fact: Composition Portfolio [https://github.com/leonkwan46/Bachelor-s-Music-Composition-Portfolio]
+
 - ⚡ Fun fact: I code music too :) [https://github.com/leonkwan46/CodingMusic]
 
 <!--
