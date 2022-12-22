@@ -2,14 +2,14 @@
 
 ✍🏻Current Project✍🏻
 - 🔭 I’m currently learning React and Node.js on Udemy
-- 🔭 I’m currently building a animal themed social media with React and Nodejs [Team members: [@mmkk28](https://github.com/mmkk28) & [@charo-jp](https://github.com/charo-jp)]
+- 🔭 I’m currently building an [animal-themed social media](https://github.com/leonkwan46/animal_social_media) with React and Nodejs [Team members: [@mmkk28](https://github.com/mmkk28) & [@charo-jp](https://github.com/charo-jp)]
 
 📝Finished Project📝
 
-- 🌱 A Cat-themed Calculator by Flutter framework [https://github.com/leonkwan46/CatCulator]
+- 🌱 A [Cat-themed Calculator](https://github.com/leonkwan46/CatCulator) by Flutter framework
 
-- 🌱 A simple MathQuiz website's Backend service for CS50 FinalProject by React & Flask [https://github.com/leonkwan46/MathQuiz-CS50_FinalProject]   
-// Frontend built by [@khoph0312](https://github.com/khoph0312) // [https://github.com/khoph0312/react-final-project]
+- 🌱 A simple MathQuiz website's Backend service for [CS50 FinalProject](https://github.com/leonkwan46/MathQuiz-CS50_FinalProject) by React & Flask  
+// [Frontend](https://github.com/khoph0312/react-final-project) built by [@khoph0312](https://github.com/khoph0312)
 
 🥴Random things🥴
 
@@ -17,9 +17,9 @@
 
 - ⚡ Fun fact: I am holding a first-class honour in Music Composition and Piano Performance
 
-- ⚡ Fun fact: Composition Portfolio [https://github.com/leonkwan46/Bachelor-s-Music-Composition-Portfolio]
+- ⚡ Fun fact: [Composition Portfolio](https://github.com/leonkwan46/Bachelor-s-Music-Composition-Portfolio)
 
-- ⚡ Fun fact: I code music too :) [https://github.com/leonkwan46/CodingMusic]
+- ⚡ Fun fact: I [code music](https://github.com/leonkwan46/CodingMusic) too :)
 
 <!--
 **leonkwan46/leonkwan46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
