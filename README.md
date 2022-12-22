@@ -2,14 +2,14 @@
 
 ✍🏻Current Project✍🏻
 - 🔭 I’m currently learning React and Node.js on Udemy
-- 🔭 My team and I are currently building an animal-themed social media with React and Nodejs (Team members: [@mmkk28](https://github.com/mmkk28) & [@charo-jp](https://github.com/charo-jp))
+- 🔭 I’m currently building a animal themed social media with React and Nodejs [Team members: @mmkk28 & @charo-jp]
 
 📝Finished Project📝
 
 - 🌱 A Cat-themed Calculator by Flutter framework [https://github.com/leonkwan46/CatCulator]
 
 - 🌱 A simple MathQuiz website's Backend service for CS50 FinalProject by React & Flask [https://github.com/leonkwan46/MathQuiz-CS50_FinalProject]   
-// Frontend built by https://github.com/khoph0312 // [https://github.com/khoph0312/react-final-project]
+// Frontend built by [@khoph0312](https://github.com/khoph0312) // [https://github.com/khoph0312/react-final-project]
 
 🥴Random things🥴
 
