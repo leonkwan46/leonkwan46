@@ -2,6 +2,7 @@
 
 ✍🏻Current Project✍🏻
 - 🔭 I’m currently learning React and Node.js on Udemy
+- 🔭 I’m currently building a animal themed social media with React and Nodejs (Team members: @mmkk28 & @charo-jp)
 
 📝Finished Project📝
 
