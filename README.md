@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ✍🏻Current Project✍🏻
-- 🔭 Starting my MSc Final Project soon, [Real-Time Chat Mobile App](https://github.com/leonkwan46/MSc_FinalPorject) by .NET MAUI
+- 🔭 Starting my MSc Final Project soon, [Real-Time Chat Mobile App](https://github.com/leonkwan46/MSc_FinalPorject) by .NET MAUI, SignalR and ReactNative
 - 🔭 I’m currently learning React (Redux, MUI, Formik) and Node.js (MongoDB, Mongoose, ExpressJS)
 - 🔭 My team and I are currently building an [animal-themed social media](https://github.com/leonkwan46/animal_social_media) with React and Nodejs [Team members: [@mmkk28](https://github.com/mmkk28) & [@charo-jp](https://github.com/charo-jp)]
 
