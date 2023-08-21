@@ -6,7 +6,7 @@
 
 📝 Finished Project 📝
 
-- 🌱 A [Animal-themed Social Media](https://github.com/leonkwan46/animal_social_media) with React and Nodejs [Team members: [@mmkk28](https://github.com/mmkk28) & [@charo-jp](https://github.com/charo-jp)] (Abandoned Project)
+- 🌱 A [Animal-themed Social Media](https://github.com/leonkwan46/animal_social_media) with React and Nodejs [Team members: [@mmkk28](https://github.com/mmkk28) & [@charo-jp](https://github.com/charo-jp)] (Temporarily Suspended)
 
 - 🌱 A [Cat-themed Calculator](https://github.com/leonkwan46/CatCulator) by Flutter framework
 
