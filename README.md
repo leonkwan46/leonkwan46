@@ -2,7 +2,7 @@
 
 ✍🏻 Current Project ✍🏻
 
-- 🔭 Starting my MSc Final Project soon, [Real-Time Chat Mobile App](https://github.com/leonkwan46/MSc_FinalProject_ChatApp) by NodeJS and ReactNative (On Hold due to work)
+- 🔭 Starting my MSc Final Project soon, [Real-Time Chat Mobile App](https://github.com/leonkwan46/MSc_FinalProject_ChatApp) by ReactNative and NodeJS
 
 📝 Finished Project 📝
 
