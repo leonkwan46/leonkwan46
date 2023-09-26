@@ -8,8 +8,6 @@
 
 - 🌱 A [Animal-themed Social Media](https://github.com/leonkwan46/animal_social_media) with React and NodeJS [Team members: [@mmkk28](https://github.com/mmkk28) & [@charo-jp](https://github.com/charo-jp)] (Temporarily Suspended)
 
-- 🌱 A [Cat-themed Calculator](https://github.com/leonkwan46/CatCulator) by Flutter framework
-
 - 🌱 A simple MathQuiz website's Backend service for [CS50 FinalProject](https://github.com/leonkwan46/MathQuiz-CS50_FinalProject) by React & Flask  
 // [Frontend](https://github.com/khoph0312/react-final-project) built by [@khoph0312](https://github.com/khoph0312)
 
