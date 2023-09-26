@@ -2,11 +2,11 @@
 
 ✍🏻 Current Project ✍🏻
 
-- 🔭 Starting my MSc Final Project soon, [Real-Time Chat Mobile App](https://github.com/leonkwan46/MSc_FinalProject_ChatApp) by ReactNative and NodeJS
+- 🔭 [Real-Time Chat Mobile App](https://github.com/leonkwan46/MSc_FinalProject_ChatApp) by ReactNative and NodeJS
 
 📝 Finished Project 📝
 
-- 🌱 A [Animal-themed Social Media](https://github.com/leonkwan46/animal_social_media) with React and Nodejs [Team members: [@mmkk28](https://github.com/mmkk28) & [@charo-jp](https://github.com/charo-jp)] (Temporarily Suspended)
+- 🌱 A [Animal-themed Social Media](https://github.com/leonkwan46/animal_social_media) with React and NodeJS [Team members: [@mmkk28](https://github.com/mmkk28) & [@charo-jp](https://github.com/charo-jp)] (Temporarily Suspended)
 
 - 🌱 A [Cat-themed Calculator](https://github.com/leonkwan46/CatCulator) by Flutter framework
 
