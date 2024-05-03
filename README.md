@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ✍🏻 Current Project ✍🏻
-- 🔭 Exploring .NET and building microservice architecture
+- 🔭 Exploring .NET & flutter
+- 🔨 Building microservice architecture
 
 🎉 Finished Project 🎉
 - 🗣️ [Real-Time Chat Mobile App](https://github.com/leonkwan46/MSc_FinalProject_ChatApp) by ReactNative and NodeJS
