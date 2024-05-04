@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ✍🏻 Current Project ✍🏻
-- 🔭 Exploring .NET & flutter
+- 🔭 Exploring T3 stack
 - 🔨 Building microservice architecture
 
 🎉 Finished Project 🎉
