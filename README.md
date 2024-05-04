@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ✍🏻 Current Project ✍🏻
-- 🔭 Exploring T3 stack
+- 🔭 Exploring gRPC
 - 🔨 Building microservice architecture
 
 🎉 Finished Project 🎉
