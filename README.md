@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ✍🏻 Current Project ✍🏻
-- 🔭 Exploring gRPC
-- 🔨 Building microservice architecture
+- 🔨 Exploring and Building microservice architecture
 
 🎉 Finished Project 🎉
 - 🗣️ [Real-Time Chat Mobile App](https://github.com/leonkwan46/MSc_FinalProject_ChatApp) by ReactNative and NodeJS
