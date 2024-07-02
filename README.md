@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-✍🏻 Current Project ✍🏻
-- 🔨 Exploring and Building microservice architecture
-
-🎉 Finished Project 🎉
-- 🗣️ [Real-Time Chat Mobile App](https://github.com/leonkwan46/MSc_FinalProject_ChatApp) by ReactNative and NodeJS
-
 <!--
 **leonkwan46/leonkwan46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
